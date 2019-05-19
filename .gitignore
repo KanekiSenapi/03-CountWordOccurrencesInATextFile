@@ -15,5 +15,3 @@ hs_err_pid*
 .idea/
 03-CountWordOccurrencesInATextFile.iml
 out/
-src/
-test.TXT
